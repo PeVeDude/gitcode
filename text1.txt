@@ -1,4 +1,4 @@
-hej hej fr�n text.txt
+﻿hej hej fr�n text1.txt
 
 det �r text 1, h�nder det n�tt?
 bla bla
