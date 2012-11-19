@@ -1,3 +1,4 @@
-hej hej från text.txt
+hej hej frï¿½n text.txt
 
-det är text 1, händer det nått?
+det ï¿½r text 1, hï¿½nder det nï¿½tt?
+bla bla
